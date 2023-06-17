@@ -1,4 +1,4 @@
-### Hi there 👋
+                                                ### Hi there 👋
 
 <!--
 **brfnprhn/brfnprhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ![Berfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brfnprhn&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brfnprhn&theme=tokyonight)]()
+
+![](https://komarev.com/ghpvc/?username=brfnprhn&&color=blueviolet&style=for-the-badge)
